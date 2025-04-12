@@ -1,6 +1,5 @@
-# 📚 NYCU Coursework Overview
-
-This page summarizes selected CS-related coursework completed at NYCU, along with major topics and related GitHub projects.
+<h1 align="center">📚 NYCU Coursework Overview</h1>
+<h3 align="center">CS-related Coursework @ NYCU Summary</h3>
 
 ## Table of Content
 * #### 🔧 [Core Courses ](#-core-courses)
