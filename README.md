@@ -2,6 +2,38 @@
 
 This page summarizes selected CS-related coursework completed at NYCU, along with major topics and related GitHub projects.
 
+## Table of Content
+* ### 🔧 [Core Courses](#-core-courses)
+  * [Intro-to-OS](#introduction-to-operating-system)
+  * [Computer Organization](#computer-organization)
+  * [DS and OOP](#data-structures-and-oop)
+  * [Intro-to-Algorithm](#introduction-to-algorithm)
+  * [Probability](#probability)
+  * [Calculus &amp; Linear Algebra](#calculus--linear-algebra)
+* ### 🤖 [AI &amp; Vision](#-ai--vision)
+  * [Intro-to-AI](#introduction-to-artificial-intelligence)
+  * [RL](#reinforcement-learning)
+  * [Image Processing](#image-processing)
+  * [Computer Vision for UAV Autopilot](#computer-vision-for-uav-autopilot)
+  * [AI Capstone](#ai-capstone-aic)
+* ### 🌐 [Networks &amp; Systems](#-networks--systems)
+  * [Intro. to Computer Networks](#introduction-to-computer-networks)
+  * [System Administration](#system-administration-sa)
+  * [Network Administration](#network-administration-na)
+  * [SDN-NFV](#software-defined-networking-and-network-function-virtualization-sdn-nfv)
+  * [Intro-to-NP](#introduction-to-network-programming)
+* ### 🔐 [Security &amp; Crypto](#-security--crypto)
+  * [Intro. to Cryptography](#introduction-to-cryptography)
+  * [Cryptography Engineering](#cryptography-engineering)
+  * [Computer Security Capstone](#computer-security-capstone)
+* ### 📊 [Data &amp; Visualization](#-data--visualization)
+  * [Data Visualization and Visual Analytics](#data-visualization-and-visual-analytics)
+  * [Intro. to Database Systems](#introduction-to-database-systems)
+  * [Numerical Methods](#numerical-methods)
+* ### 🎨 [Graphics &amp; Math](#-graphics--math)
+  * [Intro. to Computer Graphics](#introduction-to-computer-graphics)
+  * [Fundamental Graph Theory](#fundamental-graph-theory)
+
 
 ## 🔧 Core Courses
 
