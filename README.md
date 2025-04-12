@@ -169,6 +169,7 @@
 
 ### Introduction to Computer Graphics
 - Project: [3D Animation (Treasure Hunt)](https://github.com/ChuEating1005/Treasure-Hunt)
+- Homeworks: [OpenGL practices](https://github.com/ChuEating1005/Intro-to-CG)
 - Topics: OpenGL, 3D transformations, animation pipeline, Blender preprocessing
 - Grade: `A+`
 
