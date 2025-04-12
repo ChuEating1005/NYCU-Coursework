@@ -155,7 +155,7 @@
 
 ### Introduction to Database Systems
 - Project: [SQL & Web Integration (Band System)](https://github.com/Kent-mak/Band-System)
-- Homeworks: (https://github.com/ChuEating1005/Intro-to-Database)
+- Homeworks: [SQL basic practices](https://github.com/ChuEating1005/Intro-to-Database)
 - Topics: ER modeling, SQL joins, indexing, transactions
 - Grade: `A`
 
