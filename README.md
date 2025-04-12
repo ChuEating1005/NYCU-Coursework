@@ -117,6 +117,11 @@ This page summarizes selected CS-related coursework completed at NYCU, along wit
 - Topics: ONOS, Mininet, virtual routing, basic network functions
 - Grade: `A+`
 
+### Cisco Certified Network Associate (CCNA)
+- Labs: [CCNA Lab Practice](https://github.com/ChuEating1005/CCNA)
+- Topics: Subnetting, routing protocols (RIP, EIGRP, OSPF), VLAN, NAT, ACL, and Cisco packet tracer configuration
+- Grade: `B`
+
 ### Introduction to Network Programming
 - Homeworks: [Multi-player games](https://github.com/ChuEating1005/Intro-to-NP)
 - Topics: TCP/UDP sockets, concurrency, client-server architecture
