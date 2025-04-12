@@ -140,7 +140,7 @@
 - Grade: `A+`
 
 ### Computer Security Capstone
-- Project: [Security Labs & Research](https://github.com/ChuEating1005/Computer-Security-Capstone)
+- Project: [Security Labs & Research -> Private now](https://github.com/ChuEating1005/Computer-Security-Capstone)
 - Topics: Network attack simulation (ARP spoofing, TLS hijacking), ICMP redirects, defense strategies
 - Status: `🚧 In Progress`
   
