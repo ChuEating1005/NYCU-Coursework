@@ -44,7 +44,7 @@ This page summarizes selected CS-related coursework completed at NYCU, along wit
 - Grade: `A+`
 
 ### Reinforcement Learning
-- Project: [RL Labs](https://github.com/ChuEating1005/Reinforcement-Learning)
+- Homeworks: [RL Labs](https://github.com/ChuEating1005/Reinforcement-Learning)
 - Topics: Q-learning, policy gradient, multi-armed bandits
 - Grade: `A+`
 
@@ -59,6 +59,10 @@ This page summarizes selected CS-related coursework completed at NYCU, along wit
 - Topics: Drone controls, feature matching, image registration, object detection
 - Grade: `A+`
 
+### AI Capstone (AIC)
+- Project: [3D AI-based Scene Completion](https://github.com/ChuEating1005/AI-Capstone)
+- Topics: Diffusion models, 3D scene editing, NeRF, SDS optimization
+- Status: `🚧 In Progress`
 
 ## 🌐 Networks & Systems
 
@@ -70,6 +74,11 @@ This page summarizes selected CS-related coursework completed at NYCU, along wit
 - Project: [FreeBSD/Linux Labs](https://github.com/ChuEating1005/SA)
 - Topics: User management, service configuration, scripting, cron jobs
 - Grade: `A+`
+
+### Network Administration (NA)
+- Project: [Lab Reports & Configuration Scripts](https://github.com/ChuEating1005/NA)
+- Topics: DNS/DHCP configuration, firewalls, VLAN, VPN, BIND & Unbound setup
+- Status: `🚧 In Progress`
 
 ### Software Defined Networking and Network Function Virtualization (SDN-NFV)
 - Project & Homeworks: [SDN vRouter / ONOS Labs](https://github.com/ChuEating1005/SDN-NFV)
@@ -92,6 +101,11 @@ This page summarizes selected CS-related coursework completed at NYCU, along wit
 - Homeworks: [GitHub Repo](https://github.com/ChuEating1005/Cryptography-Engineering)
 - Topics: Practical implementations of cryptographic algorithms, including AES (ECB/CBC), RSA encryption & signature schemes,  etc.
 - Grade: `A+`
+
+### Computer Security Capstone
+- Project: [Security Labs & Research](https://github.com/ChuEating1005/Computer-Security-Capstone)
+- Topics: Network attack simulation (ARP spoofing, TLS hijacking), ICMP redirects, defense strategies
+- Status: `🚧 In Progress`
   
 
 ## 📊 Data & Visualization
