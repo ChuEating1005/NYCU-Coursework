@@ -20,8 +20,9 @@
   * [System Administration](#system-administration-sa)
   * [Network Administration](#network-administration-na)
   * [SDN-NFV](#software-defined-networking-and-network-function-virtualization-sdn-nfv)
-  * [Intro-to-NP](#introduction-to-network-programming)
   * [CCNA](#cisco-certified-network-associate-ccna)
+  * [Intro-to-NP](#introduction-to-network-programming)
+  
 * #### 🔐 [Security &amp; Crypto ](#-security--crypto)
   * [Intro. to Cryptography](#introduction-to-cryptography)
   * [Cryptography Engineering](#cryptography-engineering)
